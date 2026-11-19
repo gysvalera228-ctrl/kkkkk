@@ -1,0 +1,1 @@
+# Dataminde ProGuard rules.
